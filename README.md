@@ -8,4 +8,4 @@ Solving 1 DSA problem daily with structured thinking and clean implementation.
 |------|-----------------------------|-------------|----------------|
 |   1    | Largest Element in Array  |     Array      |         Easy      |
 |   2    | Reverse a given Array       |    Array      |       Easy         |
-
+|   3    | Count Frequency of Arrays |  Array      |     Medium    |
