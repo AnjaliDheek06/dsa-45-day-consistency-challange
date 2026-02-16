@@ -4,8 +4,7 @@ def main():
     total_sum = 0.0
     for i in range(n):
         total_sum += float(arr[i])
-
-    average = total_sum / n
+        average = total_sum / n
     print(f"The average is {average}")
 
 
