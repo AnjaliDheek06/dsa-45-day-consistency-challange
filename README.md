@@ -13,3 +13,4 @@ Solving 1 DSA problem daily with structured thinking and clean implementation.
 |    5   |                    Two Sum Leetcode    | Array + Hashing|  Basic  |
 |   6    |  Sum Of Natural Numbers (C++) |      Array       |  Basic        |
 |   7    | Range Sum Query Immutable     |     Array     |    Easy           |
+|   8    |                 Three Sum (C++)               |      Array   |    Medium  |
