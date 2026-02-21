@@ -15,11 +15,9 @@ This avoids using loops and directly calculates the result in constant time.
 
 ## Complexity
 
-Time Complexity:
-Using formula → O(1)
+Time Complexity  :   Using formula → O(1)
 
-Space Complexity:
-No extra space used → O(1)
+Space Complexity :  No extra space used → O(1)
 
 ## Key Learning
 
